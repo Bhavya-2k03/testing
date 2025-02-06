@@ -17,6 +17,8 @@ int main()
 
 
         cout<<"This is for testing purpose only"<<endl;
+
+        cout<<"This is also for testing"<<endl;
         int flag=1, sum1=0, sum2=0;
         for(auto &i:vec)
         {
