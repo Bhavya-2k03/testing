@@ -15,6 +15,8 @@ int main()
         int temp=0;
         for(int i=0; i<k; i++) {cin>>vec[i]; temp=max(temp,vec[i]);}
 
+
+        cout<<"This is for testing purpose only"<<endl;
         int flag=1, sum1=0, sum2=0;
         for(auto &i:vec)
         {
